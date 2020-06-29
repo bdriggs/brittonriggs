@@ -51,9 +51,9 @@ social:
   link: https://github.com/bdriggs
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,7 +62,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
 #- Researchers
-#- Visitors
+#- Visitorsa
 ---
 
 Britton Riggs currently serves as a Project Manager for a startup software development company that focuses on continuing education for healthcare professionals. His primary roles involve interfacing with clients, managing multiple simultaneous projects via tools such as JIRA, Asana, and Trello, and also helping manage a small team of software developers. When he is not managing projects, Britton likes to work on personal Python projects and enjoys expanding his knowledge within the field of DevOps.
