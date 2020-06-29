@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Arts in Philosopy
+  - course: Bachelor of Arts in Philosophy
     institution: Heidelberg University
     year: 2013
 
