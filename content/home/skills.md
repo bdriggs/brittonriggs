@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "AWS"
   description = ""
   
 [[feature]]
@@ -27,9 +27,27 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "desktop"
+  icon = "cogs"
   icon_pack = "fas"
   name = "DevOps"
+  description = ""
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = ""
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Systems Administration"
   description = ""
 
 # Uncomment to use emoji icons.
