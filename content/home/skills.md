@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Photography"
+  name = "DevOps"
   description = ""
 
 # Uncomment to use emoji icons.
