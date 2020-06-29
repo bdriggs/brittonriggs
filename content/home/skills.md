@@ -18,19 +18,19 @@ subtitle = ""
   icon = "cloud"
   icon_pack = "fas"
   name = "AWS"
-  description = ""
+  description = "EC2 Linux, Storage & Content Delivery"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Project Management"
-  description = ""  
+  description = "Agile"  
   
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
   name = "DevOps"
-  description = ""
+  description = "Jenkins, Octopus Deploy"
 
 [[feature]]
   icon = "python"
@@ -42,13 +42,13 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = ""
+  description = "RHEL/Debian"
 
 [[feature]]
   icon = "desktop"
   icon_pack = "fas"
   name = "Systems Administration"
-  description = ""
+  description = "Linux & Windows"
 
 # Uncomment to use emoji icons.
 # [[feature]]
