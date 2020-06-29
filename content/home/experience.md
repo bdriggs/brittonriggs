@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Project Management
-  * DevOps
+  * Interfacing with external clientele via phone calls and Zoom.
+  * Monitoring and controlling software projects via tools such as JIRA, Asana, Trello, and Monday.com.
+  * Working closely with the development team to come up with innovative software solutions.
+  * Developing automated solutions in order to make software development more efficient and impactful.
   """
 
 [[experience]]
