@@ -63,11 +63,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Systems Support Technician"
-  company = "CloudCME, LLC."
+  company = "Critical Path Institute"
   company_url = "https://c-path.org"
   location = "Tucson, AZ"
   date_start = "2015-09-08"
   date_end = "2016-01-05"
+  description = """
+"""
+
+[[experience]]
+  title = "Helpdesk Support Technician"
+  company = "Heidelberg University"
+  company_url = "https://heidelberg.edu"
+  location = "Tiffin, OH"
+  date_start = "2014-06-01"
+  date_end = "2015-06-05"
   description = """
 """
 
