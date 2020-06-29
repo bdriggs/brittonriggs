@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Project Manager (Software Development)
+role: Project Manager
 
 # Organizations/Affiliations
 organizations:
-- name: CloudCME LLC.
+- name: CloudCME, LLC.
   url: "https://cloud-cme.com"
 
 # Short bio (displayed in user profile at end of posts)
