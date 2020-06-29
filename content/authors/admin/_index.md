@@ -24,7 +24,7 @@ interests:
 - .NET, Python, NodeJS, TypeScript
 - Project Management
 - DevOps
-- Chatbot Technology
+- Linux
 
 education:
   courses:
