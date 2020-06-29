@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Britton Riggs currently serves as a Project Manager for a startup sofware development company that focuses on continuing education for healthcare professionals. His primary roles involve interfacing with clients, managing multiple simultaneous projects via tools such as JIRA, Asana, and Trello, and also helping manage a small team of software developers. When he is not managing projects, Britton likes to work on personal Python projects and enjoys expanding his knowledge within the field of DevOps.
+Britton Riggs currently serves as a Project Manager for a startup software development company that focuses on continuing education for healthcare professionals. His primary roles involve interfacing with clients, managing multiple simultaneous projects via tools such as JIRA, Asana, and Trello, and also helping manage a small team of software developers. When he is not managing projects, Britton likes to work on personal Python projects and enjoys expanding his knowledge within the field of DevOps.
